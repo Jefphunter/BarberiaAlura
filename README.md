@@ -2,3 +2,4 @@
 
 - Estado del proyecto:  en construcción y mejora.
 - Para navegar usa el menu superior.
+- Prueba de conexión.
